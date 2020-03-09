@@ -1,0 +1,49 @@
+*{
+  box-sizing: border-box;
+}
+
+body,html{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  font-family: sans-serif;
+  background-color: #eee;
+}
+
+.textFlex{
+  display:flex;
+  justify-content: space-around;
+}
+.textFlex > div{
+  border:1px solid black;
+  padding:16px;
+}
+.textFlex > div:hover{
+  background-color: #ff0072;
+}
+.textFlex >
+
+
+.mainContainer .textFlex > div {
+  border:1px solid black;
+  padding: 16px;
+}
+.mainContainer .textFlex > div:hover {
+  border:1px solid black;
+  padding: 16px;
+}
+
+.textFlex h3{
+  margin-bottom: 64px;
+}
+
+p + p{
+  margin-top:
+}
+
+.smallContainer{
+  border: 1px solid black;
+
+}
